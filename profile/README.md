@@ -1,4 +1,4 @@
-# NMOS, in the open
+# NMOS and SMPTE ST 2110, in Rust
 
 Everyone who ships something for SMPTE ST 2110 writes the same code first: the
 IS-04 resource model, an IS-05 client, mDNS discovery, and then a long tail of
@@ -27,7 +27,7 @@ install.
 
 It is meant for the moment when you need to see a plant right now — during
 commissioning, on someone else's site, or on a bench with two converters and a
-switch. MIT.
+switch. Apache-2.0.
 
 ## If you build for 2110
 
